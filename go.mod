@@ -1,3 +1,3 @@
-module github.com/AndreyPeleshenko/protos
+module protos
 
 go 1.22.2
